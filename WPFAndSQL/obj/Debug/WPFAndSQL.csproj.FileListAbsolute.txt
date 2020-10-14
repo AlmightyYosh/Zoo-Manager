@@ -1,0 +1,14 @@
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\bin\Debug\WPFAndSQL.exe.config
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\bin\Debug\WPFAndSQL.exe
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\bin\Debug\WPFAndSQL.pdb
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\WPFAndSQL.csprojAssemblyReference.cache
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\MainWindow.g.cs
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\App.g.cs
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\WPFAndSQL_MarkupCompile.cache
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\WPFAndSQL_MarkupCompile.lref
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\MainWindow.baml
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\WPFAndSQL.g.resources
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\WPFAndSQL.Properties.Resources.resources
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\WPFAndSQL.csproj.GenerateResource.cache
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\WPFAndSQL.exe
+C:\Users\yjwar\source\repos\WPFAndSQL\WPFAndSQL\obj\Debug\WPFAndSQL.pdb
